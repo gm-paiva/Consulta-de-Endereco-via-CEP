@@ -87,7 +87,7 @@ PORT=3002  # ou qualquer outra porta de sua preferência
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/gm-paiva/nome-do-repositorio.git
+git clone https://github.com/gm-paiva/Consulta-de-Endereco-via-CEP.git
 
 # 2. Acesse a pasta do projeto
 cd app
