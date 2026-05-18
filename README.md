@@ -96,8 +96,7 @@ cd app
 npm install
 
 # 4. Configure as variáveis de ambiente
-# Crie um arquivo .env na raiz com o seguinte conteúdo:
-PORT=3002
+# Crie o arquivo .env conforme a seção acima
 
 # 5a. Inicie o servidor (produção)
 npm start
